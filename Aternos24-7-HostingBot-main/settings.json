@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "PLAYER1525",
     "password": "",
-    "type": "offline"
+    "type": "mojang"
   },
   "server": {
     "ip": "MLRlioVsMLmoon.aternos.me",
     "port": 22044,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
